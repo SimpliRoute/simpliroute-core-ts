@@ -1,5 +1,5 @@
 {
-  "name": "@simpliroute/core-ts",
+  "name": "@simpliroute/core",
   "version": "0.0.1",
   "description": "Simpliroute domain objects and use cases written in TypeScript.",
   "main": "dist/index.js",
