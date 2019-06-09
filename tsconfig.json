@@ -17,10 +17,8 @@
         "declaration": true,
         "outDir": "dist",
         "types": [
-            "dotenv",
             "jest",
-            "node",
-            "axios"
+            "node"
         ]
     },
     "exclude": [
