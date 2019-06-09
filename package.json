@@ -1,7 +1,7 @@
 {
-  "name": "simpli-sdk-node",
+  "name": "simpliroute-core-ts",
   "version": "0.0.1",
-  "description": "SimpliRoute API SDK for NodeJS - JavaScript - TypeScript.",
+  "description": "Simpliroute domain objects and use cases written in TypeScript.",
   "main": "dist/index.js",
   "scripts": {
     "start": "ts-node ./src/index.ts",
@@ -12,20 +12,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/simpliroute/simpli-sdk-node.git"
+    "url": "git+https://github.com/simpliroute/simpliroute-core-ts.git"
   },
   "keywords": [
-    "Typescript",
     "SimpliRoute",
-    "Routing",
-    "Optimization"
+    "Core",
+    "Domain"
   ],
   "author": "SimpliRoute Developers <developers@simpliroute.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/simpliroute/simpli-sdk-node.git/issues"
+    "url": "https://github.com/simpliroute/simpliroute-core-ts.git/issues"
   },
-  "homepage": "https://github.com/simpliroute/simpli-sdk-node.git#readme",
+  "homepage": "https://github.com/simpliroute/simpliroute-core-ts.git#readme",
   "devDependencies": {
     "@types/jest": "^24.0.13",
     "@types/node": "^12.0.5",
