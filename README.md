@@ -5,6 +5,6 @@
 
 ### Installation
 ```bash
-$ npm install simpliroute-core-ts
+$ npm install @simpliroute/core
 ```
 
