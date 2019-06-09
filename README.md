@@ -1,13 +1,10 @@
-## simpli-sdk-node
+## simpliroute-core-ts
 
-[SimpliRoute](http://simpliroute.com) API SDK  for **NodeJS - JavaScript - TypeScript**, aiming to provide a easy way to integrate your Application with SimpliRoute very easy.
-
-#### Warning
-This is a **WIP** project an the API is still unstable tested only with [NodeJS LTS](https://nodejs.org/en/about/releases/).
+[SimpliRoute](http://simpliroute.com) core domain bussiness library written in Typescript.
 
 
 ### Installation
 ```bash
-$ npm install simpli-sdk-node
+$ npm install simpliroute-core-ts
 ```
 
