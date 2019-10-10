@@ -11,7 +11,13 @@
     "test:watch": "jest --verbose --watch"
   },
   "repository": "git+https://github.com/simpliroute/simpliroute-core-ts.git",
-  "keywords": ["Typescript", "Node", "SimpliRoute", "domain", "core"],
+  "keywords": [
+    "Typescript",
+    "Node",
+    "SimpliRoute",
+    "domain",
+    "core"
+  ],
   "author": "SimpliRoute Developers <developers@simpliroute.com>",
   "license": "MIT",
   "bugs": {
