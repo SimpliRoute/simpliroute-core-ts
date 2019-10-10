@@ -1,7 +1,11 @@
 ## ts-node-base
 
-A boilerplate to start a new TypeScript NodeJS project, super fast **NodeJS +
-TypeScript + Jest**.
+[SimpliRoute](https://www.simpliroute.com/) SimpliRoute API domain objects.
+
+### Installation
+```bash
+$ npm install simpliroute-core
+```
 
 ### NPM Scripts included
 
