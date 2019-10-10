@@ -15,7 +15,15 @@
     "alwaysStrict": true,
     "declaration": true,
     "outDir": "dist",
-    "types": ["jest", "node"]
+    "types": [
+      "jest",
+      "node"
+    ]
   },
-  "include": ["./src/**/*.ts"]
+  "exclude": [
+    "node_modules"
+  ],
+  "include": [
+    "./**/*.ts"
+  ]
 }
