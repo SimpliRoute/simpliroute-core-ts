@@ -4,7 +4,7 @@
 
 ### Installation
 ```bash
-$ npm install simpliroute-core
+$ npm install @simpliroute/core
 ```
 
 ### NPM Scripts included
