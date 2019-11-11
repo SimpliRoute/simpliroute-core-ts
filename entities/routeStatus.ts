@@ -1,6 +1,6 @@
 enum RouteStatus {
     Completed = 'completed',
-    Pending = 'pending'
+    Pending = 'pending',
 }
 
 export default RouteStatus;

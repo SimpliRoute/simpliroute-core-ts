@@ -1,5 +1,5 @@
-import User from '../entities/user';
+import { User } from './entity';
 
 export default interface UserUseCase {
-  describe(): Promise<User>;
+    describe(): Promise<User>;
 }

@@ -2,7 +2,7 @@ enum VisitStatus {
     Pending = 'pending',
     Failed = 'failed',
     Completed = 'completed',
-    Canceled = 'canceled'
+    Canceled = 'canceled',
 }
 
 export default VisitStatus;
